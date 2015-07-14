@@ -1,0 +1,182 @@
+16 Hour Transdermal Patch
+24 Hour Transdermal Patch
+72 Hour Transdermal Patch
+Augmented Topical Cream
+Augmented Topical Gel
+Augmented Topical Lotion
+Augmented Topical Ointment
+Biweekly Transdermal Patch
+Medicated Pad
+Medicated Tape
+Patch
+Powder Spray
+Topical Cake
+Topical Cream
+Topical Foam
+Topical Gel
+Topical Lotion
+Topical Oil
+Topical Ointment
+Topical Powder
+Topical Solution
+Topical Spray
+Transdermal Patch 
+Weekly Transdermal Patch
+Dry Powder Inhaler
+Gas
+Gas for Inhalation
+Inhalant
+Inhalant Powder
+Inhalant Solution
+Metered Dose Inhaler
+Nasal Inhalant
+Nasal Inhaler
+Nasal Spray
+Medicated Pad
+Medicated Tape
+Douche
+Vaginal Cream
+Vaginal Foam
+Vaginal Gel
+Vaginal Ointment
+Vaginal Powder
+Vaginal Ring
+Vaginal Spray
+Vaginal Suppository
+Vaginal Tablet
+Injectable Solution
+Injectable Suspension
+Intramuscular Solution
+Intramuscular Suspension
+Intrathecal Suspension
+Intravenous Solution
+Intravenous Suspension
+Prefilled Syringe
+Enema
+Rectal Cream
+Rectal Foam
+Rectal Gel
+Rectal Ointment
+Rectal Powder
+Rectal Solution
+Rectal Spray
+Rectal Suppository
+Rectal Suspension
+Mucosal Spray
+Mucous Membrane Topical Solution
+Nasal Cream
+Nasal Gel
+Nasal Inhalant
+Nasal Inhaler
+Nasal Ointment
+Nasal Solution
+Nasal Spray
+Nasal Suspension
+Bar
+Buccal Film
+Buccal Tablet
+Chewable Bar
+Chewable Tablet
+Chewing Gum
+Crystals
+Disintegrating Tablet
+Elixir
+Enteric Coated Capsule
+Enteric Coated Tablet
+Extended Release Capsule
+Extended Release Enteric Coated Capsule
+Extended Release Enteric Coated Tablet
+Extended Release Suspension
+Extended Release Tablet
+Flakes
+Granules
+Lozenge
+Oral Capsule
+Oral Cream
+Oral Foam
+Oral Gel
+Oral Ointment
+Oral Paste
+Oral Powder
+Oral Solution
+Oral Spray
+Oral Strip
+Oral Suspension
+Oral Tablet
+Pellet
+Pudding
+Sublingual Tablet
+Sustained Release Buccal Tablet
+Wafer
+Mouthwash
+Toothpaste
+Buccal Tablet
+Chewable Tablet
+Disintegrating Tablet
+Enteric Coated Capsule
+Enteric Coated Tablet
+Extended Release Capsule
+Extended Release Enteric Coated Capsule
+Extended Release Enteric Coated Tablet
+Extended Release Tablet
+Oral Capsule
+Oral Tablet
+Sublingual Tablet
+Sustained Release Buccal Tablet
+Otic Cream
+Otic Ointment
+Otic Solution 
+Otic Suspension
+Ophthalmic Cream
+Ophthalmic Gel
+Ophthalmic Irrigation Solution
+Ophthalmic Ointment
+Ophthalmic Solution
+Ophthalmic Suspension
+Drug Implant
+Vaginal Ring
+Elixir
+Extended Release Suspension
+Mouthwash
+Oral Solution
+Oral Spray
+Oral Suspension 
+Intraperitoneal Solution
+Irrigation Solution
+Oral Paste
+Paste
+Toothpaste
+Prefilled Applicator
+Urethral Suppository
+Urethral Gel
+Crystals
+Buccal Film
+Buccal Tablet
+Sustained Release Buccal Tablet
+Lozenge
+Mouthwash
+Oral Ointment
+Oral Cream
+Sublingual Tablet
+Toothpaste
+Granules
+Oral Foam
+Oral Paste
+Toothpaste
+Oral Powder
+Wafer
+Disintegrating Tablet
+Pellet
+Medicated Shampoo
+Chewable Bar
+Chewable Tablet
+Chewing Gum
+Flakes
+Oral Spray
+Pudding
+Oral Strip
+Bar Soap
+Medicated Bar Soap
+Medicated Liquid Soap
+Oral Gel
+Transdermal Patch

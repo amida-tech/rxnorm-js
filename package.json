@@ -1,0 +1,24 @@
+{
+  "author": "Amida",
+  "name": "rxnorm-js",
+  "description": "Library for querying the RXNorm API",
+  "main": "lib/rxnorm.js",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:amida-tech/rxnorm-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/amida-tech/rxnorm-js/issues"
+  },
+  "licenses": [
+    {
+      "type": "Apache 2.0",
+      "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  ],
+  "dependencies": {
+    "async": "^1.3.0",
+    "request": "^2.58.0"
+  }
+}
