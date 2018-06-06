@@ -3,7 +3,7 @@
   "name": "rxnorm-js",
   "description": "Library for querying the RXNorm API",
   "main": "lib/rxnorm.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repository": {
     "type": "git",
     "url": "git@github.com:amida-tech/rxnorm-js.git"
